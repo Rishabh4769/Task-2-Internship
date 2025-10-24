@@ -1,4 +1,4 @@
-# Phishing Analysis — Task Summary
+# Task 2 - Phishing Analysis
 
 **Task:** Analyze a suspicious email (CoinDesk / Ripple allocation mock) and determine whether it is phishing.
 
